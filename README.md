@@ -32,4 +32,4 @@ I have saved my checkpoints of the model in ([This Link](https://drive.google.co
 Now that you can use a trained model for predictions, check to make sure it makes sense. Even if the validation accuracy is high, it's always good to check that there aren't obvious bugs. Use `matplotlib` to plot the probabilities for the top 5 classes as a bar graph, along with the input image. It should look like this:
 
 <img src='assets/inference_example.png' width=300px>
-<img src='assets/1.png' width=300px>
+<img src='assets/1.PNG' width=300px>
